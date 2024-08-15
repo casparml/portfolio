@@ -13,7 +13,7 @@ module.exports = {
 			{
 				protocol: 'https',
 				hostname: '**.vercel.app',
-				pathname: '?app=portfolio-theme-jqe0jhmif-atlamors.vercel.app'
+				pathname: '?app=portfolio-4x3q-rkqxw1siy-cas42s-projects.vercel.app'
 			},
 			{
 				protocol: 'https',

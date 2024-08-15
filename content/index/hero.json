@@ -20,12 +20,12 @@
 	"buttons": {
 		"primary": {
 			"title": "Contact Me",
-			"url": "",
+			"url": "mailto:info@casparlandman.nl?Subject=Contact&Body=Hello%20Caspar%2C%0A%0A",
 			"leaveSite": false
 		},
 		"secondary": {
 			"title": "LinkedIn",
-			"url": "",
+			"url": "https://www.linkedin.com/in/casparlandman/",
 			"leaveSite": "true"
 		}
 	}
