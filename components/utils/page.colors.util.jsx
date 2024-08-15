@@ -20,7 +20,7 @@ export default function ColorOverrides({ colors }) {
 
 function Dark({colors}) {
 	const children = Object.keys(colors).length
-	if ( children != 0 ) {
+	if ( children !== 0 ) {
 		return (	
 			<style>
 				{`
@@ -37,7 +37,7 @@ function Dark({colors}) {
 }
 function Unicorn({colors}) {
 	const children = Object.keys(colors).length
-	if ( children != 0 ) {
+	if ( children !== 0 ) {
 		return (
 			<style>
 				{`
@@ -55,7 +55,7 @@ function Unicorn({colors}) {
 
 function Light({colors}) {
 	const children = Object.keys(colors).length
-	if ( children != 0 ) {
+	if ( children !== 0 ) {
 		return (
 			<style>
 				{`

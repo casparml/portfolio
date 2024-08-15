@@ -4,11 +4,11 @@ import sections from '../../styles/structure/section.module.scss';
 /**
  * Structural Component
  * 
- * Section / Container / Componenents / Blocks / Utils
+ * Section / Container / Components / Blocks / Utils
  * ¯¯¯¯¯¯¯¯         
  * @param {string}	classProp template literals of classes for contain
  * @param {jsx} 	children children elements
- * @returns {JSX.Element}	<Section />
+ * @returns {jsx}	<Section />
  */
 export default function Section({ classProp, children }) {
 
