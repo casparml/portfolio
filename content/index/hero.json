@@ -20,7 +20,7 @@
 	"buttons": {
 		"primary": {
 			"title": "Contact Me",
-			"url": "mailto:info@casparlandman.nl?Subject=Contact&Body=Hello%20Caspar%2C%0A%0A",
+			"url": "",
 			"leaveSite": false
 		},
 		"secondary": {
