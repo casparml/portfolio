@@ -10,8 +10,8 @@ import css from '../../../styles/sections/articles/recent.module.scss'
 
 export default function Recent({ mediumArticles }) {
 
-//	const feed 		= mediumArticles.feed
-	const articles 	= mediumArticles.items
+	const feed 	= mediumArticles.feed
+	const articles = mediumArticles.items
 
 	return (
 		<Section classProp="borderBottom">

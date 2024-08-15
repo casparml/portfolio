@@ -8,7 +8,7 @@ import sections from '../../styles/structure/section.module.scss';
  * ¯¯¯¯¯¯¯¯         
  * @param {string}	classProp template literals of classes for contain
  * @param {jsx} 	children children elements
- * @returns {jsx}	<Section />
+ * @returns {JSX.Element}	<Section />
  */
 export default function Section({ classProp, children }) {
 

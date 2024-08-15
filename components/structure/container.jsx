@@ -12,7 +12,7 @@ import css from '../../styles/structure/container.module.scss';
  * @param {string}	classProp template literals of classes for container
  * @param {array} 	spacing array of strings for Spacing utility
  * @param {jsx} 	children children elements
- * @returns {jsx}	<Container />
+ * @returns {JSX.Element}	<Container />
  */
 export default function Container({ classProp, spacing, children }) {
 
