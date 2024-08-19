@@ -29,7 +29,7 @@
 		"descriptionTitle": "My first open source project",
 		"description": "All you have to do is simply enter the hints, it's actually simple.",
 		"images": [
-			{ "key": "gtbsolver", "hover": "left", "h": "984", "w": "1339",  "url": "/img/portfolio-mock.png" }
+			{ "key": "gtbsolver", "hover": "left", "h": "984", "w": "1339",  "url": "" }
 		],
 		"stack": [
 			{ "key": "javascript", 	"name": "JavaScript", 	"type": "devicon" },
