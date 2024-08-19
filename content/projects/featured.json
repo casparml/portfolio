@@ -7,11 +7,6 @@
 		"description": "Bedwars stats done right!",
 		"imageOptions": [
 		],
-		"images": [
-			{ "key": "statalytics",	"hover": "right", 	"h": "1200", "w": "556", "url": "/img/msc-mock_stack/03.png" },
-			{ "key": "statalytics",	"hover": "right",	"h": "1200", "w": "556", "url": "/img/msc-mock_stack/02.png" },
-			{ "key": "statalytics",	"hover": "left",	"h": "1200", "w": "556", "url": "/img/msc-mock_stack/01.png" }
-		],
 		"stack": [
 			{ "key": "python", 		"name": "Python", 		"type": "devicon" },
 			{ "key": "mysql", 		"name": "mySQL", 		"type": "devicon" },
@@ -30,9 +25,6 @@
 		"description": "All you have to do is simply enter the hints, it's actually simple.",
 		"imageOptions": [
 			{ "key": "size", 		"value": "large" }
-		],
-		"images": [
-			{ "key": "gtbsolver", "hover": "", "h": "", "w": "",  "url": "/img/portfolio-mock.png" }
 		],
 		"stack": [
 			{ "key": "javascript", 	"name": "JavaScript", 	"type": "devicon" },
