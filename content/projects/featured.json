@@ -1,6 +1,6 @@
 [
 	{
-		"project": "Statalytics",
+		"project": "statalytics.net",
 		"url": "https://statalytics.net/",
 		"repo": "Public",
 		"descriptionTitle": "Hypixel bedwars discord bot",
@@ -23,13 +23,13 @@
 		]
 	},
 	{
-		"project": "GTB Solver",
+		"project": "gtbsolver.com",
 		"url": "https://gtbsolver.com/",
 		"repo": "Public",
-		"descriptionTitle": "An open source project",
+		"descriptionTitle": "My first open source project",
 		"description": "All you have to do is simply enter the hints, it's actually simple.",
 		"images": [
-			{ "key": "gtbsolver", "hover": "left", "h": "834", "w": "1139",  "url": "/img/portfolio-mock.png" }
+			{ "key": "gtbsolver", "hover": "left", "h": "984", "w": "1339",  "url": "/img/portfolio-mock.png" }
 		],
 		"stack": [
 			{ "key": "javascript", 	"name": "JavaScript", 	"type": "devicon" },
