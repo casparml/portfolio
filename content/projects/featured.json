@@ -5,8 +5,6 @@
 		"repo": "Public",
 		"descriptionTitle": "Hypixel bedwars discord bot",
 		"description": "Bedwars stats done right!",
-		"imageOptions": [
-		],
 		"stack": [
 			{ "key": "python", 		"name": "Python", 		"type": "devicon" },
 			{ "key": "mysql", 		"name": "mySQL", 		"type": "devicon" },
@@ -23,9 +21,6 @@
 		"repo": "Public",
 		"descriptionTitle": "An open source project",
 		"description": "All you have to do is simply enter the hints, it's actually simple.",
-		"imageOptions": [
-			{ "key": "size", 		"value": "large" }
-		],
 		"stack": [
 			{ "key": "javascript", 	"name": "JavaScript", 	"type": "devicon" },
 			{ "key": "html5",		"name": "HTML5", 		"type": "devicon" },
