@@ -8,9 +8,7 @@
 		"imageOptions": [
 		],
 		"images": [
-			{ "key": "statalytics",	"hover": "right", 	"h": "1200", "w": "556", "url": "/img/msc-mock_stack/03.png" },
-			{ "key": "statalytics",	"hover": "right",	"h": "1200", "w": "556", "url": "/img/msc-mock_stack/02.png" },
-			{ "key": "statalytics",	"hover": "left",	"h": "1200", "w": "556", "url": "/img/msc-mock_stack/01.png" }
+			{ "key": "statalytics",	"hover": "right", 	"h": "1200", "w": "556", "url": "/img/gtbsolver-mockup.png" }
 		],
 		"stack": [
 			{ "key": "python", 		"name": "Python", 		"type": "devicon" },
@@ -28,8 +26,11 @@
 		"repo": "Public",
 		"descriptionTitle": "My first open source project",
 		"description": "All you have to do is simply enter the hints, it's actually simple.",
+		"imageOptions": [
+			{ "key": "size", 		"value": "large" }
+		],
 		"images": [
-			{ "key": "gtbsolver", "hover": "left", "h": "984", "w": "1339",  "url": "" }
+			{ "key": "gtbsolver", "hover": "left", "h": "1200", "w": "556",  "url": "/img/statalytics-mockup.png" }
 		],
 		"stack": [
 			{ "key": "javascript", 	"name": "JavaScript", 	"type": "devicon" },
