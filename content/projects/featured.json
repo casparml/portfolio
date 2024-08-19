@@ -28,11 +28,8 @@
 		"repo": "Public",
 		"descriptionTitle": "An open source project",
 		"description": "All you have to do is simply enter the hints, it's actually simple.",
-		"imageOptions": [
-			{ "key": "size", 		"value": "large" }
-		],
 		"images": [
-			{ "key": "gtbsolver", "hover": "right", "h": "728", "w": "1000",  "url": "/img/portfolio-mock.png" }
+			{ "key": "gtbsolver", "hover": "left", "h": "834", "w": "1139",  "url": "/img/portfolio-mock.png" }
 		],
 		"stack": [
 			{ "key": "javascript", 	"name": "JavaScript", 	"type": "devicon" },
