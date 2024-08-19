@@ -32,7 +32,7 @@
 			{ "key": "size", 		"value": "large" }
 		],
 		"images": [
-			{ "key": "gtbsolver", "h": "1000", "w": "738",  "url": "/img/portfolio-mock.png" }
+			{ "key": "gtbsolver", "hover": "", "h": "", "w": "",  "url": "/img/portfolio-mock.png" }
 		],
 		"stack": [
 			{ "key": "javascript", 	"name": "JavaScript", 	"type": "devicon" },
